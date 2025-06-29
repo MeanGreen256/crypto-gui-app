@@ -1,0 +1,4 @@
+requests
+tkinter
+# or if you choose PyQt, use the following line instead
+# PyQt5
